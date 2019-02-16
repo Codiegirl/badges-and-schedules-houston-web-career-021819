@@ -3,4 +3,5 @@ def badge_maker(name)
   end
   # Write your code here.
   
-  
+  def batch_badge_creator(names)
+    
