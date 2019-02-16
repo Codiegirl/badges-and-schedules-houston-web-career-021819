@@ -10,7 +10,7 @@ def badge_maker(name)
 end
   
   def assign_rooms(speakers)
-    puts "Hello, #{name}! You'll be assigned to room #{room}"ef assign_rooms(attendees)
+    puts "Hello, #{name}! You'll be assigned to room #{room}"def assign_rooms(attendees)
   room=0
   attendees.collect do |name|
     room+=1
