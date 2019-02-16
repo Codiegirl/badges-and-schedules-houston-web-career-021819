@@ -17,3 +17,5 @@ end
   end
 end
 
+def printer(print)
+  batch_badge_creator
